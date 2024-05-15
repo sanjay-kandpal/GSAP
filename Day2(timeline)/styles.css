@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    background-color: #eee;
+}
+
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: lightseagreen;
+}
+
+#box3{
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
+}
